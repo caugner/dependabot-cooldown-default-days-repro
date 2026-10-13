@@ -1,0 +1,9 @@
+{
+  "name": "dependabot-cooldown-default-days-repro",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal reproduction for Dependabot cooldown default-days configuration behavior",
+  "dependencies": {
+    "mdn-data": "2.0.0"
+  }
+}
